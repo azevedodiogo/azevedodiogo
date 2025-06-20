@@ -12,7 +12,7 @@
 const diogo = {
    enrolling: software engineering,
    from: portugal,
-   ask_me: [series, apple, politics],
+   ask_me: [shows, apple, politics],
    music: [(bad bunny, dakiti), (disclosure, you & me)],
    show: [elite, money heist, fauda, tehran],
    looking_forward: [internship],
