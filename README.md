@@ -1,16 +1,25 @@
-## Hi there 👋
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap" rel="stylesheet">
 
-<!--
-**azevedodiogo/azevedodiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <div>
+   <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000078.4dd294a45fce45e18e0cdd7be421e406.2144" width=250>
+</div> -->
 
-Here are some ideas to get you started:
+<!-- <div>
+<div style="display: flex; row-gap: 10px; flex-direction: column; align-items: center;">
+<img src="title.png"> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ruby
+const diogo = {
+   enrolling: software engineering,
+   from: portugal,
+   ask_me: [series, apple software, politics],
+   music: [(bad bunny, dakiti), (disclosure, you & me)],
+   show: [elite, money heist, fauda, tehran],
+   looking_forward: [internship],
+   tech: [c],
+   hobbies: [netflix, hanging out, running]
+}
+
+```
+
+</div>
